@@ -7,3 +7,4 @@ step5: git config --global user.name "yourname"
 // fatal  严重错误
 // 账号信息被储存在 gitconfig文件里面
 step6: git commit -m "message"
+step7: git log ==> 查询提交状态
